@@ -1,35 +1,29 @@
 # Re: Software
 
-**Software die werkt zoals jij werkt.**
+**Software that works the way you work.**
 
-We bouwen websites en applicaties die écht werken. Geen standaardoplossingen, maar software die aansluit bij hoe jij en je team werken.
+We build custom software solutions that actually fit your workflow — from concept to deployment.
 
-## 🚀 Wat we doen
+## What We Do
 
-- **Maatwerk webapplicaties** — Van idee tot productie, gebouwd op maat voor jouw organisatie
-- **WordPress hosting & onderhoud** — Betrouwbare hosting met 99.99% uptime
-- **API-ontwikkeling** — Robuuste backends en integraties
-- **AI-gedreven oplossingen** — Slimme automatisering en website generatie
+- **Custom Development** — Tailored applications for your unique needs
+- **Managed Hosting** — Rock-solid infrastructure on Kubernetes
+- **API Integrations** — Connect your tools seamlessly
+- **AI Solutions** — Practical automation that delivers value
 
-## 💡 Onze aanpak
+## Tech Stack
 
-Met meer dan 11 jaar ervaring bouwen we software die daadwerkelijk gebruikt wordt. We denken mee over de beste oplossing voor jouw situatie, geen buzzwords of overbodige complexiteit.
+**Backend:** Go, Node.js, Python  
+**Frontend:** React, Vue, TypeScript  
+**Infrastructure:** Kubernetes, Docker, ArgoCD  
+**Databases:** PostgreSQL, Redis, RabbitMQ
 
-## 🛠️ Tech Stack
+## Get In Touch
 
-- **Backend:** Node.js, Python, Go
-- **Frontend:** React, Next.js, WordPress
-- **Infrastructure:** Kubernetes, CloudFlare, PostgreSQL
-- **DevOps:** ArgoCD, GitHub Actions, monitoring & alerting
-
-## 📫 Contact
-
-Klaar om je idee werkelijkheid te maken?
-
-- **Website:** [resoftware.nl](https://resoftware.nl)
-- **Email:** info@resoftware.nl
-- **Support:** support@resoftware.nl
+🌐 [resoftware.nl](https://resoftware.nl)  
+📧 [info@resoftware.nl](mailto:info@resoftware.nl)
 
 ---
 
-🐥 Powered by Ducky, our AI support agent
+*Built with care in Amsterdam 🇳🇱*  
+*Supported by Ducky 🐥*
