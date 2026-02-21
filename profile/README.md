@@ -18,14 +18,12 @@ Started in 2015 from hackathon wins, we build custom software solutions that act
 **Infrastructure:** Kubernetes, ArgoCD, Docker  
 **Databases:** PostgreSQL, Redis, RabbitMQ
 
-## Our Clients
-
-Heineken • DigiStudies • ITA • Chiesi • Innovamat • and more
-
 ---
 
 **📍 Schaijk, Netherlands**  
 **📧 [info@resoftware.nl](mailto:info@resoftware.nl)**  
 **🌐 [resoftware.nl](https://resoftware.nl)**
 
-*Supported by Ducky 🐥*
+---
+
+*Ducky 🐥 — Our AI support agent, built with Claude, handles monitoring, bug triage, and development support*
