@@ -13,9 +13,9 @@ We build custom software solutions that actually fit your workflow — from conc
 
 ## Tech Stack
 
-**Backend:** Go, Node.js, Python  
-**Frontend:** React, Vue, TypeScript  
-**Infrastructure:** Kubernetes, Docker, ArgoCD  
+**Backend:** C#, Python  
+**Frontend:** Vue.js, Astro  
+**Infrastructure:** Kubernetes, ArgoCD  
 **Databases:** PostgreSQL, Redis, RabbitMQ
 
 ## Get In Touch
@@ -25,5 +25,4 @@ We build custom software solutions that actually fit your workflow — from conc
 
 ---
 
-*Built with care in Amsterdam 🇳🇱*  
 *Supported by Ducky 🐥*
